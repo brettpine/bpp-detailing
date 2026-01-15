@@ -11,6 +11,7 @@ const navLeft = [
 
 const navRight = [
     { label: "Area", href: "#area" },
+    { label: "FAQ", href: "#faq" },
     { label: "Book", href: "#contact" },
 ];
 
