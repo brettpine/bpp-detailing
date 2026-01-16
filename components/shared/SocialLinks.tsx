@@ -11,18 +11,23 @@ type Social = {
 const socials: Social[] = [
     {
         label: "Facebook",
-        href: "https://www.facebook.com/bpp-detailing",
+        href: "https://www.facebook.com/profile.php?id=61586870840782",
         iconSrc: "/images/icons8-facebook.svg",
     },
     {
         label: "Instagram",
-        href: "https://www.instagram.com/bpp-detailing",
+        href: "https://www.instagram.com/bppdetailing",
         iconSrc: "/images/icons8-instagram.svg",
     },
     {
         label: "TikTok",
-        href: "https://www.tiktok.com/@bpp-detailing",
+        href: "https://www.tiktok.com/@bpp.detailing",
         iconSrc: "/images/icons8-tiktok.svg",
+    },
+    {
+        label: "YouTube",
+        href: "https://www.youtube.com/@BPPDetailing",
+        iconSrc: "/images/icons8-youtube.svg",
     },
 ];
 
